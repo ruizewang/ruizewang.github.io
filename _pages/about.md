@@ -19,30 +19,56 @@ redirect_from:
 
 My research interest includes natural language processing(NLP), knowledge infusion, multimodal text generation and multimodal representation.
 
- <a href='https://scholar.google.com.hk/citations?user=ojrU9qEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+ <a href='https://scholar.google.com/citations?user=ojrU9qEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- 
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- 
+- *2021.07*: &nbsp;🎉🎉 I graduated from Fudan University and joined Tencent. 
+
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- </div> -->
+<!-- </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+- Storytelling from an Image Stream Using Scene Graphs, **AAAI 2020**  
+**Ruize Wang**, Zhongyu Wei, Piji Li, Qi Zhang, Xuanjing Huang [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6455)]
+
+- Keep it Consistent: Topic-Aware Storytelling from an Image Stream via Iterative Multi-agent Communication. **COLING 2020**  
+**Ruize Wang**, Zhongyu Wei, Ying Cheng, Piji Li, Haijun Shan, Ji Zhang, Qi Zhang, Xuanjing Huang [[paper](https://arxiv.org/abs/1911.04192)]
+
+- Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. **EMNLP 2020**  
+**Ruize Wang**, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou [[paper](https://arxiv.org/abs/2004.14201)]
+
+- K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. **ACL Findings 2021**  
+**Ruize Wang**, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou [[paper](https://arxiv.org/abs/2002.01808)] [[code](https://github.com/microsoft/K-Adapter)]
+
+- Look, Listen, and Attend: Co-Attention Network for Self-Supervised Audio-Visual Representation Learning. **ACM MM 2020**  
+Ying Cheng, *Ruize Wang*, Zhihao Pan, Rui Feng, Yuejie Zhang [[paper](https://arxiv.org/pdf/2008.05789)]
+
+- Neural Deepfake Detection with Factual Structure of Text. **EMNLP 2020**  
+Wanjun Zhong, Duyu Tang, Zenan Xu, **Ruize Wang**, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin [[paper](https://arxiv.org/pdf/2010.07475)]
+
+- TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning. **IJCAI 2021**  
+Zhihao Fan, Zhongyu Wei, Siyuan Wang, **Ruize Wang**, Zejun Li, Haijun Shan, Xuanjing Huang [[paper](https://arxiv.org/abs/2106.10936)]
+
+- K-aid: Enhancing pre-trained language models with domain knowledge for question answering. **CIKM 2021**  
+Fu Sun, Feng-Lin Li, **Ruize Wang**, Qianglong Chen, Xingyi Cheng, Ji Zhang [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481930)]
+ 
+- Exploring Logical Reasoning for Referring Expression Comprehension. **ACM MM 2021**  
+Ying Cheng, **Ruize Wang**, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, Rui Feng [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475677)]
+
 
 # 📖 Educations
 - *2018.09 - 2021.06*, Fudan University  
@@ -56,11 +82,11 @@ My research interest includes natural language processing(NLP), knowledge infusi
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- Research Intern, Alibaba · DAMO, *2020.05 - 2020.09*    
+- *2020.05 - 2020.09*, Alibaba · DAMO, Hangzhou.  
   Mentor: [Dr. Fenglin Li](https://scholar.google.com.hk/citations?user=xo_dfnMAAAAJ&hl=zh-CN)
-- Research Intern, Natural Language Computing Group, Microsoft Research Asia (MSRA) , *2020.01 - 2020.04*    
+- *2020.01 - 2020.04*, Natural Language Computing Group, Microsoft Research Asia (MSRA), Beijing.   
   Mentor: [Dr. Duyu Tang](https://scholar.google.com.hk/citations?user=9uz-D-kAAAAJ&hl=zh-CN)
-- Research Intern, Natural Language Computing Group, Microsoft Research Asia (MSRA) , *2019.10 - 2020.01*    
+- *2019.10 - 2020.01*, Natural Language Computing Group, Microsoft Research Asia (MSRA), Beijing.   
   Mentor: [Dr. Duyu Tang](https://scholar.google.com.hk/citations?user=9uz-D-kAAAAJ&hl=zh-CN)
 
 

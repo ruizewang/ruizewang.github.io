@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruize Wang(王瑞泽)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Ruize Wang (王瑞泽)"
+description              : "Research Scientist in Tencent at AMS. Focusing on Ads, NLP and multimodal."
 repository               : "ruizewang/ruizewang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruize Wang"
+  name             : "Ruize Wang (王瑞泽)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fudan University"
+  bio              : "Tencent AMS"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
