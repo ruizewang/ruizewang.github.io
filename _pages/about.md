@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes natural language processing(NLP), knowledge infusion, multimodal text generation and multimodal representation.
+I work at [Tencent Ads](https://e.qq.com/ads/) <img src='./images/tencent_ads.png' style='width: 6em;'> as a Applied Research Scientist now in Shanghai. 
 
- <a href='https://scholar.google.com/citations?user=ojrU9qEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I graduated from Fudan University (复旦大学) with a master’s degree. I was a member of [Fudan NLP Group (复旦大学自然语言处理实验室)](https://nlp.fudan.edu.cn), advised by [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io) and [Zhongyu Wei (魏忠钰)](http://www.fudan-disc.com/people).
+I was a research intern in the [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/people/) of MSRA, and was mentored by [Duyu Tang (唐都钰)](https://scholar.google.com.hk/citations?user=9uz-D-kAAAAJ&hl=zh-CN).
 
-<!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+My research interest includes natural language processing(NLP), knowledge infusion, multimodal text generation and multimodal representation. I have published ~10 papers  <a href='https://scholar.google.com/citations?user=ojrU9qEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as AAAI, EMNLP, ACL, CIKM, ACM MM.
 
 # 🔥 News
-- *2021.07*: &nbsp;🎉🎉 I graduated from Fudan University and joined Tencent. 
+- *2021.07*: &nbsp;🎉 I joined [Tencent Ads](https://e.qq.com/ads/) <img src='./images/tencent_ads.png' style='width: 6em;'> as a Applied Research Scientist in Shanghai. 
 
 # 📝 Publications 
 
@@ -51,7 +52,7 @@ My research interest includes natural language processing(NLP), knowledge infusi
 - Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. **EMNLP 2020**  
 **Ruize Wang**, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou [[paper](https://arxiv.org/abs/2004.14201)]
 
-- K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. **ACL Findings 2021**  
+- `ACL 2021` K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. **ACL Findings 2021**  
 **Ruize Wang**, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou [[paper](https://arxiv.org/abs/2002.01808)] [[code](https://github.com/microsoft/K-Adapter)]
 
 - Look, Listen, and Attend: Co-Attention Network for Self-Supervised Audio-Visual Representation Learning. **ACM MM 2020**  

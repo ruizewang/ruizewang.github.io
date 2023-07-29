@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruize Wang (王瑞泽)"
-description              : "Research Scientist in Tencent at AMS. Focusing on Ads, NLP and multimodal."
+description              : "Applied Research Scientist in Tencent Ads at AMS. Focusing on Ads, NLP and multimodal."
 repository               : "ruizewang/ruizewang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : codeva-NhvneypEFN # get baidu_site_verification from 
 author:
   name             : "Ruize Wang (王瑞泽)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tencent"
+  bio              : "Tencent Ads"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : https://dblp.org/pid/254/0867.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
