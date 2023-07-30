@@ -85,9 +85,7 @@ Ying Cheng, **Ruize Wang**, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, Rui Feng [[p
 # 💻 Internships
 - *2020.05 - 2020.09*, Alibaba · DAMO, Hangzhou.  
   Mentor: [Dr. Fenglin Li](https://scholar.google.com.hk/citations?user=xo_dfnMAAAAJ&hl=zh-CN)
-- *2020.01 - 2020.04*, Natural Language Computing Group, Microsoft Research Asia (MSRA), Beijing.   
-  Mentor: [Dr. Duyu Tang](https://scholar.google.com.hk/citations?user=9uz-D-kAAAAJ&hl=zh-CN)
-- *2019.10 - 2020.01*, Natural Language Computing Group, Microsoft Research Asia (MSRA), Beijing.   
+- *2019.10 - 2020.04*, Natural Language Computing Group, Microsoft Research Asia (MSRA), Beijing.   
   Mentor: [Dr. Duyu Tang](https://scholar.google.com.hk/citations?user=9uz-D-kAAAAJ&hl=zh-CN)
 
 
