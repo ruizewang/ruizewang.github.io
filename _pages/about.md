@@ -95,7 +95,7 @@ Ying Cheng, **Ruize Wang**, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, Rui Feng [[p
 # 🎖 Honors and Awards
 - National Scholarship for Graduate Students, *2020*
 - Outstanding Graduates of Yunnan Province, *2018*
-- National Undergraduate Electronics Design Contest - National First Prize, *2021.08*
+- National Undergraduate Electronics Design Contest - National First Prize, *2017.08*
 - Microsoft Imagine Cup Global Student Technology Competition - National Third Prize & Regional First Prize, *2017.05*
 - National Undergraduate Mathematical Contest - National Second Prize, *2016.12*
-- Google College Student Mobile Internet Innovation Challenge - Silver Award, *2021.10*
+- Google College Student Mobile Internet Innovation Challenge - Silver Award, *2016.10*
