@@ -26,9 +26,10 @@ I was a research intern in the [Natural Language Computing Group](https://www.mi
 My research interest includes natural language processing(NLP), knowledge infusion, multimodal text generation and multimodal representation. I have published ~10 papers  <a href='https://scholar.google.com/citations?user=ojrU9qEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as AAAI, EMNLP, ACL, CIKM, ACM MM.
 
 # 🔥 News
-- *2021.07*: &nbsp;🎉 I joined [Tencent Ads](https://e.qq.com/ads/) <img src='./images/tencent_ads.png' style='width: 6em;'> as a Applied Research Scientist in Shanghai.
-- *2020.05*: &nbsp;🎉 I joined [Alibaba · DAMO](https://damo.alibaba.com/about?language=zh/) <img src='./images/ali.png' style='width: 6em;'> as a Research Intern in Hangzhou.
-- *2019.10*: &nbsp;🎉 I joined [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='./images/msr.png' style='width: 6em;'> as a Research Intern in Beijing.
+- *2024.05*: &nbsp;🎉 One paper is accepted by KDD2024.
+- *2021.07*: I joined [Tencent Ads](https://e.qq.com/ads/) <img src='./images/tencent_ads.png' style='width: 6em;'> as a Applied Research Scientist in Shanghai.
+- *2020.05*: I joined [Alibaba · DAMO](https://damo.alibaba.com/about?language=zh/) <img src='./images/ali.png' style='width: 6em;'> as a Research Intern in Hangzhou.
+- *2019.10*: I joined [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) <img src='./images/msr.png' style='width: 6em;'> as a Research Intern in Beijing.
 
 
 # 📝 Publications 
