@@ -46,11 +46,14 @@ My research interest includes natural language processing(NLP), knowledge infusi
 <!-- </div> -->
 <!-- </div> -->
 
+- `KDD 2024` **ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**      
+**Ruize Wang**, Hui Xu, Ying Cheng, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang 
+
+<!-- [[paper]()] -->
 
 - `AAAI 2020` **Storytelling from an Image Stream Using Scene Graphs**      
 **Ruize Wang**, Zhongyu Wei, Piji Li, Qi Zhang, Xuanjing Huang [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6455)]
 <!-- - , **AAAI 2020**   -->
-
 
 
 - `COLING 2020` **Keep it Consistent: Topic-Aware Storytelling from an Image Stream via Iterative Multi-agent Communication**     
