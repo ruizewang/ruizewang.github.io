@@ -23,7 +23,7 @@ I graduated from Fudan University (复旦大学) with a master’s degree. I was
 I was a research intern in the [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/people/) of MSRA, and was mentored by [Duyu Tang (唐都钰)](https://scholar.google.com.hk/citations?user=9uz-D-kAAAAJ&hl=zh-CN).
 
 
-My research interest includes natural language processing(NLP), knowledge infusion, multimodal text generation and multimodal representation. I have published ~10 papers  <a href='https://scholar.google.com/citations?user=ojrU9qEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as AAAI, EMNLP, ACL, CIKM, ACM MM.
+My research interest includes natural language processing(NLP), knowledge infusion, multimodal text generation and multimodal representation. I have published ~10 papers  <a href='https://scholar.google.com/citations?user=ojrU9qEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as AAAI, EMNLP, ACL, KDD, CIKM, ACM MM.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉 One paper is accepted by KDD2024.
