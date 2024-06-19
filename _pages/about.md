@@ -47,9 +47,7 @@ My research interest includes natural language processing(NLP), knowledge infusi
 <!-- </div> -->
 
 - `KDD 2024` **ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**      
-**Ruize Wang**, Hui Xu, Ying Cheng, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang 
-
-<!-- [[paper]()] -->
+**Ruize Wang**, Hui Xu, Ying Cheng, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang [[paper](https://arxiv.org/abs/2406.10517v1)]
 
 - `AAAI 2020` **Storytelling from an Image Stream Using Scene Graphs**      
 **Ruize Wang**, Zhongyu Wei, Piji Li, Qi Zhang, Xuanjing Huang [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6455)]
@@ -66,7 +64,7 @@ My research interest includes natural language processing(NLP), knowledge infusi
 **Ruize Wang**, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou [[paper](https://arxiv.org/abs/2002.01808)] [[code](https://github.com/microsoft/K-Adapter)]
 
 - `ACM MM 2020` **Look, Listen, and Attend: Co-Attention Network for Self-Supervised Audio-Visual Representation Learning**    
-Ying Cheng, *Ruize Wang*, Zhihao Pan, Rui Feng, Yuejie Zhang [[paper](https://arxiv.org/pdf/2008.05789)]
+Ying Cheng, **Ruize Wang**, Zhihao Pan, Rui Feng, Yuejie Zhang [[paper](https://arxiv.org/pdf/2008.05789)]
 
 - `EMNLP 2020` **Neural Deepfake Detection with Factual Structure of Text**  
 Wanjun Zhong, Duyu Tang, Zenan Xu, **Ruize Wang**, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin [[paper](https://arxiv.org/pdf/2010.07475)]
