@@ -26,6 +26,7 @@ I was a research intern in the [Natural Language Computing Group](https://www.mi
 My research interest includes natural language processing(NLP), knowledge infusion, multimodal text generation and multimodal representation. I have published ~10 papers  <a href='https://scholar.google.com/citations?user=ojrU9qEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as AAAI, EMNLP, ACL, KDD, CIKM, ACM MM.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 One paper is accepted by KDD2026.
 - *2024.05*: &nbsp;🎉 One paper is accepted by KDD2024.
 - *2021.07*: I joined [Tencent Ads](https://e.qq.com/ads/) <img src='./images/tencent_ads.png' style='width: 6em;'> as a Applied Research Scientist in Shanghai.
 - *2020.05*: I joined [Alibaba · DAMO](https://damo.alibaba.com/about?language=zh/) <img src='./images/ali.png' style='width: 6em;'> as a Research Intern in Hangzhou.
@@ -45,6 +46,9 @@ My research interest includes natural language processing(NLP), knowledge infusi
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- </div> -->
 <!-- </div> -->
+
+- `KDD 2026` **AdPilot: Towards Fully Autonomous Advertising Delivery via Agentic Reinforcement Learning**      
+Shuoshuo Sun, Qi He, Xiaoting Li, Ziyang Song, Shengqi Dai, **Ruize Wang**, Ying Cheng, Zhangbin Zhu, Lingling Yao, Lei Xiao, Haijie Gu, Jie Jiang [[paper](https://dl.acm.org/doi/10.1145/3770855.3818315)]
 
 - `KDD 2024` **ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**      
 **Ruize Wang**, Hui Xu, Ying Cheng, Qi He, Xing Zhou, Rui Feng, Wei Xu, Lei Huang, Jie Jiang [[paper](https://arxiv.org/abs/2406.10517v1)]
